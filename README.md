@@ -1,4 +1,4 @@
-# Proyecto-BRIW: Sitema de Búsqueda y Recuperación
+# Proyecto-BRIW: Sistema de Búsqueda y Recuperación
 
 ## Integrantes
 
